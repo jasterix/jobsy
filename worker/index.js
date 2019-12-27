@@ -1,5 +1,7 @@
 // go to crontab.guru for syntax
 // this is for every second: * * * * * *
+// To run this file:
+// node worker/index.js;
 
 var CronJob = require("cron").CronJob;
 new CronJob(
