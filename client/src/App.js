@@ -5,7 +5,15 @@ import Jobs from "./Jobs";
 const mockJobs = [
   {
     title: "SWE 1",
-    company: "blah"
+    company: "facebook"
+  },
+  {
+    title: "SWE 1",
+    company: "apple"
+  },
+  {
+    title: "SWE 1",
+    company: "msft"
   }
 ];
 
